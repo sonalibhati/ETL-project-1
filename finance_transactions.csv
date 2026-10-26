@@ -1,0 +1,501 @@
+transaction_id,transaction_date,department,transaction_type,vendor_customer,amount,currency,payment_method,cost_center,status,invoice_number
+TXN0001,2025-02-27,Procurement,Invoice Payment,BluePeak Consulting,15096.33,INR,Bank Transfer,CC500,Completed,INV-21395
+TXN0002,2025-08-05,Accounts Payable,Invoice Payment,ABC Technologies,8799.72,INR,Credit Card,CC200,Completed,INV-95181
+TXN0003,2025-10-07,Accounts Receivable,Bank Transfer,ABC Technologies,205.55,USD,UPI,CC400,Completed,INV-54597
+TXN0004,not_a_date,Accounts Receivable,Customer Receipt,Apex Services,36119.04,INR,Bank Transfer,CC300,Completed,INV-55082
+TXN0005,2025-05-16,Procurement,Invoice Payment,Apex Services,97.14,USD,Bank Transfer,CC500,Completed,INV-48427
+TXN0006,2025-07-05,Accounts Receivable,Expense Reimbursement,Metro Utilities,8111.06,INR,NEFT,CC100,Completed,INV-40512
+TXN0007,2025-02-21,Payroll,Bank Transfer,Summit Office Products,453.72,USD,UPI,CC300,Completed,INV-56566
+TXN0008,2025-04-18,Payroll,Journal Entry,BluePeak Consulting,19002.38,INR,Credit Card,CC200,Completed,INV-31417
+TXN0009,2025-08-25,Payroll,Bank Transfer,Summit Office Products,73.38,EUR,Bank Transfer,CC200,Completed,INV-14207
+TXN0010,2025-06-11,Payroll,Bank Transfer,Summit Office Products,15696.23,INR,UPI,CC400,Completed,INV-61856
+TXN0011,2025-08-23,Payroll,Customer Receipt,Evergreen Logistics,6674.8,INR,Credit Card,CC400,Completed,INV-86484
+TXN0012,2025-07-24,Accounts Receivable,Payroll,Northstar Supplies,6661.7,INR,Bank Transfer,CC100,Completed,INV-30033
+TXN0013,2025-03-23, accounts payable ,Journal Entry,Apex Services,134.33,EUR,Credit Card,CC400,Completed,INV-79352
+TXN0014,2025-05-09,Accounts Payable,Expense Reimbursement,Evergreen Logistics,1946.35,INR,NEFT,CC100,Completed,INV-48469
+TXN0015,2025-08-11,Treasury,Customer Receipt,Evergreen Logistics,2284.31,INR,Credit Card,CC200,Under Review,INV-76542
+TXN0016,2025-02-24,Payroll,Journal Entry,BluePeak Consulting,67.81,EUR,NEFT,CC200,Completed,INV-80697
+TXN0017,2025-09-29,General Ledger,Invoice Payment,Northstar Supplies,4184.3,INR,NEFT,CC300,Completed,INV-41385
+TXN0018,2025-01-30,General Ledger,Customer Receipt,Crescent Telecom,12927.48,INR,Bank Transfer,CC500,Completed,INV-26483
+TXN0019,2025-03-07,Treasury,Journal Entry,Apex Services,50.54,EUR,UPI,CC500,Completed,INV-36365
+TXN0020,2025-06-09,Procurement,Bank Transfer,Crescent Telecom,2979.59,INR,Bank Transfer,CC200,Completed,INV-39451
+TXN0021,2025-02-02,Accounts Payable,Payroll,,380.11,EUR,Bank Transfer,CC100,Completed,INV-92719
+TXN0022,2025-01-31,Accounts Payable,Customer Receipt,Northstar Supplies,8168.9,INR,Credit Card,CC200,Pending,INV-46500
+TXN0023,2025-09-06,General Ledger,Customer Receipt,Crescent Telecom,10481.83,INR,UPI,CC400,Completed,INV-63354
+TXN0024,2025-04-08,Accounts Payable,Invoice Payment,Apex Services,35.31,USD,RTGS,CC100,Completed,INV-98259
+TXN0025,2025-02-20,Treasury,Invoice Payment,Northstar Supplies,6230.89,INR,UPI,CC200,Pending,INV-34931
+TXN0026,2025-10-02,Accounts Receivable,Bank Transfer,Crescent Telecom,130.25,USD,UPI,CC100,Completed,INV-68082
+TXN0027,2025-10-09,Accounts Payable,Invoice Payment,Northstar Supplies,41.11,EUR,UPI,CC200,Pending,INV-63269
+TXN0028,2025-09-06,Accounts Receivable,Bank Transfer,BluePeak Consulting,163.12,USD,RTGS,CC100,Failed,INV-61173
+TXN0029,2025-05-16,Payroll,Bank Transfer,Crescent Telecom,71.14,USD,UPI,CC200,Completed,INV-48890
+TXN0030,2025-04-22,General Ledger,Invoice Payment,Summit Office Products,85.35,EUR,Bank Transfer,CC100,Completed,INV-86569
+TXN0031,2025-09-02,General Ledger,Expense Reimbursement,Northstar Supplies,5934.57,INR,UPI,CC100,Completed,INV-87992
+TXN0032,2025-02-04,Accounts Receivable,Journal Entry,Metro Utilities,572.26,USD,Credit Card,CC500,Completed,INV-15209
+TXN0033,2025-02-11,Procurement,Bank Transfer,Summit Office Products,108.11,EUR,NEFT,CC200,Completed,INV-97782
+TXN0034,not_a_date,Payroll,Customer Receipt,Evergreen Logistics,48.24,USD,RTGS,CC300,Completed,INV-19508
+TXN0035,2025-01-05,General Ledger,Bank Transfer,Northstar Supplies,220.04,EUR,Credit Card,CC200,Under Review,INV-76307
+TXN0036,2025-05-16,Payroll,Customer Receipt,Summit Office Products,3506.18,INR,NEFT,CC200,Failed,INV-67433
+TXN0037,2025-10-06,Payroll,Journal Entry,ABC Technologies,130.61,EUR,Credit Card,CC300,Under Review,INV-96951
+TXN0038,2025-02-23,Payroll,Customer Receipt,BluePeak Consulting,1871.1,INR,NEFT,CC300,Failed,INV-89276
+TXN0039,2025-04-18,Payroll,Journal Entry,Evergreen Logistics,3200.43,INR,Credit Card,CC400,Completed,INV-42914
+TXN0040,2025-01-27,Procurement,Invoice Payment,ABC Technologies,140.12,USD,Bank Transfer,CC300,Pending,INV-27146
+TXN0041,2025-05-15,Procurement,Customer Receipt,Apex Services,222.04,USD,Credit Card,CC100,Completed,INV-24663
+TXN0042,2025-02-08,Accounts Receivable,Journal Entry,Summit Office Products,126.51,EUR,Credit Card,CC500,Completed,INV-29410
+TXN0043,2025-08-09,Accounts Payable,Customer Receipt,ABC Technologies,,INR,NEFT,CC200,Completed,INV-99399
+TXN0044,2025-05-08,Accounts Payable,Journal Entry,Apex Services,7662.26,INR,Credit Card,CC200,Pending,INV-41029
+TXN0045,2025-03-25,Treasury,Customer Receipt,Summit Office Products,2816.52,INR,RTGS,CC200,Completed,INV-44970
+TXN0046,2025-03-23,Accounts Payable,Journal Entry,Crescent Telecom,64.28,USD,UPI,CC200,Failed,INV-70332
+TXN0047,2025-06-29,Accounts Receivable,Payroll,Metro Utilities,6690.59,INR,RTGS,CC300,Completed,INV-46517
+TXN0048,2025-02-05,Payroll,Payroll,Summit Office Products,268.59,EUR,Bank Transfer,CC100,Completed,INV-44237
+TXN0049,2025-04-02,Payroll,Expense Reimbursement,Apex Services,13254.28,INR,NEFT,CC300,Completed,INV-67199
+TXN0050,2025-09-19,Treasury,Invoice Payment,ABC Technologies,,EUR,RTGS,CC100,Completed,INV-78146
+TXN0051,2025-10-03,Procurement,Journal Entry,Northstar Supplies,13036.02,INR,NEFT,CC500,Completed,INV-51145
+TXN0052,2025-03-05,Payroll,Journal Entry,Apex Services,78.83,EUR,NEFT,CC400,Completed,INV-48752
+TXN0053,2025-10-11,Accounts Receivable,Customer Receipt,Apex Services,66.67,USD,UPI,CC500,Completed,INV-84593
+TXN0054,2025-06-04,General Ledger,Bank Transfer,Metro Utilities,16645.99,INR,RTGS,CC500,Completed,INV-89516
+TXN0055,2025-06-14,Treasury,Bank Transfer,Crescent Telecom,284.72,USD,UPI,CC100,Completed,INV-47196
+TXN0056,2025-09-21,Procurement,Journal Entry,Metro Utilities,241.35,EUR,NEFT,CC200,Completed,INV-36100
+TXN0057,2025-03-17,Accounts Payable,Invoice Payment,Northstar Supplies,4849.67,INR,RTGS,CC400,Under Review,INV-92544
+TXN0058,2025-04-10,Procurement,Journal Entry,Metro Utilities,91.13,USD,UPI,CC100,Completed,INV-23970
+TXN0059,2025-08-06,Accounts Receivable,Customer Receipt,Metro Utilities,144.93,EUR,Bank Transfer,,Completed,INV-27477
+TXN0060,2025-08-26,General Ledger,Journal Entry,Crescent Telecom,250.6,EUR,Credit Card,CC500,Completed,INV-65933
+TXN0061,2025-10-08,Accounts Receivable,Bank Transfer,Metro Utilities,78.87,USD,NEFT,CC500,Completed,INV-73517
+TXN0062,2025-05-03,Treasury,Payroll,Metro Utilities,8452.27,INR,NEFT,CC300,Completed,INV-51904
+TXN0063,2025-10-04,Accounts Receivable,Invoice Payment,BluePeak Consulting,3864.61,INR,UPI,CC100,Completed,INV-64377
+TXN0064,2025-07-28,General Ledger,Payroll,Metro Utilities,42.88,USD,RTGS,CC400,Completed,INV-86556
+TXN0065,2025-01-11,Treasury,Expense Reimbursement,Summit Office Products,236.47,USD,NEFT,CC400,Completed,INV-64921
+TXN0066,2025-10-03,Procurement,Journal Entry,Metro Utilities,346.35,EUR,RTGS,CC200,Pending,INV-45774
+TXN0067,2025-08-12,Accounts Payable,Bank Transfer,Apex Services,111.49,USD,UPI,CC400,Completed,INV-26728
+TXN0068,2025-10-01,Treasury,Invoice Payment,ABC Technologies,256.63,EUR,Bank Transfer,CC400,Completed,INV-27786
+TXN0069,2025-08-25,Accounts Payable,Customer Receipt,Metro Utilities,13458.83,INR,RTGS,CC300,Completed,INV-54236
+TXN0070,2025-07-14,Treasury,Payroll,Crescent Telecom,5719.57,INR,Bank Transfer,CC500,Pending,INV-16826
+TXN0071,2025-06-29,Procurement,Customer Receipt,ABC Technologies,13456.08,INR,Bank Transfer,CC200,Pending,INV-36130
+TXN0072,2025-01-11,Accounts Receivable,Expense Reimbursement,Northstar Supplies,36582.71,INR,Credit Card,CC200,Completed,INV-70952
+TXN0073,2025-05-12,Accounts Receivable,Payroll,Northstar Supplies,106.08,EUR,UPI,CC300,Completed,INV-24168
+TXN0074,2025-01-14,General Ledger,Payroll,Metro Utilities,448.14,USD,Bank Transfer,CC500,Completed,INV-92213
+TXN0075,2025-05-05,Procurement,Invoice Payment,Northstar Supplies,1067.65,INR,Credit Card,CC100,Pending,INV-55508
+TXN0076,2025-09-30,Procurement,Bank Transfer,Summit Office Products,19902.83,INR,Bank Transfer,CC400,Completed,INV-74251
+TXN0077,2025-02-24,Payroll,Bank Transfer,Apex Services,127.63,USD,UPI,CC500,Completed,INV-95256
+TXN0078,2025-05-19,General Ledger,Expense Reimbursement,Evergreen Logistics,91.93,USD,NEFT,CC200,Completed,INV-21359
+TXN0079,2025-05-23,Accounts Receivable,Bank Transfer,Apex Services,128.14,USD,NEFT,CC100,Completed,INV-74789
+TXN0080,2025-06-16,Treasury,Customer Receipt,Evergreen Logistics,1827.25,INR,NEFT,CC300,Completed,INV-88139
+TXN0081,2025-05-22,Accounts Payable,Expense Reimbursement,Northstar Supplies,90.73,EUR,UPI,CC400,Under Review,INV-74038
+TXN0082,2025-10-12,Procurement,Customer Receipt,Crescent Telecom,160.57,USD,RTGS,CC100,Completed,INV-22196
+TXN0083,2025-05-31,Treasury,Customer Receipt,Summit Office Products,34759.56,INR,RTGS,CC500,Completed,INV-79588
+TXN0084,2025-06-26,Procurement,Bank Transfer,Crescent Telecom,70.39,EUR,NEFT,CC300,Completed,INV-42951
+TXN0085,2025-04-29,Procurement,Invoice Payment,BluePeak Consulting,4977.98,INR,UPI,CC200,Completed,INV-73464
+TXN0086,2025-05-22,General Ledger,Journal Entry,Northstar Supplies,,EUR,UPI,CC300,Completed,INV-39816
+TXN0087,2025-07-04,Payroll,Customer Receipt,BluePeak Consulting,21549.15,INR,NEFT,CC100,Completed,INV-17146
+TXN0088,2025-10-11,Procurement,Payroll,Crescent Telecom,13087.83,INR,Bank Transfer,CC100,Completed,INV-85243
+TXN0089,2025-05-26,Treasury,Bank Transfer,ABC Technologies,75.55,USD,NEFT,CC400,Completed,INV-24953
+TXN0090,2025-02-03,Treasury,Bank Transfer,ABC Technologies,15310.24,INR,UPI,CC200,Completed,INV-83772
+TXN0091,2025-06-05,Accounts Receivable,Invoice Payment,Apex Services,10748.44,INR,Credit Card,CC500,Completed,INV-91057
+TXN0092,2025-04-26,Treasury,Expense Reimbursement,Evergreen Logistics,270.02,USD,Credit Card,CC400,Failed,INV-50026
+TXN0093,2025-01-31,Procurement,Expense Reimbursement,Metro Utilities,5449.37,INR,UPI,CC300,Under Review,INV-96563
+TXN0094,2025-02-11,Accounts Receivable,Customer Receipt,BluePeak Consulting,7491.22,INR,Bank Transfer,CC400,Completed,INV-69048
+TXN0095,2025-08-29,Accounts Payable,Payroll,Evergreen Logistics,7091.9,INR,RTGS,CC100,Completed,INV-40595
+TXN0096,2025-05-16,General Ledger,Journal Entry,Metro Utilities,2852.67,INR,UPI,CC300,Completed,INV-28643
+TXN0097,2025-02-06,Accounts Receivable,Invoice Payment,Evergreen Logistics,12729.82,INR,RTGS,CC100,Completed,INV-71433
+TXN0098,2025-06-05,Treasury,Journal Entry,Crescent Telecom,12356.0,INR,RTGS,CC100,Completed,INV-88385
+TXN0099,2025-01-21,Procurement,Bank Transfer,ABC Technologies,9940.24,INR,Bank Transfer,CC200,Completed,INV-98381
+TXN0100,2025-01-11,Payroll,Journal Entry,BluePeak Consulting,89.59,EUR,RTGS,CC500,Completed,INV-95394
+TXN0101,2025-08-15,Accounts Receivable,Payroll,Crescent Telecom,32.84,EUR,Bank Transfer,CC400,Completed,INV-55607
+TXN0102,2025-07-29,Payroll,Payroll,Summit Office Products,6921.94,INR,RTGS,CC400,Pending,INV-47777
+TXN0103,2025-07-25,Accounts Payable,Expense Reimbursement,Evergreen Logistics,88.57,USD,NEFT,CC100,Completed,INV-62976
+TXN0104,2025-09-21,Procurement,Invoice Payment,ABC Technologies,55.3,EUR,UPI,CC500,Completed,INV-57419
+TXN0105,2025-09-13,Treasury,Journal Entry,BluePeak Consulting,8629.2,INR,NEFT,CC400,Completed,INV-73532
+TXN0106,2025-03-04,Procurement,Invoice Payment,BluePeak Consulting,154.18,EUR,NEFT,CC500,Pending,INV-11792
+TXN0107,2025-10-10,Accounts Payable,Bank Transfer,Northstar Supplies,49180.77,INR,RTGS,CC100,Under Review,INV-94896
+TXN0108,not_a_date,Procurement,Bank Transfer,Evergreen Logistics,11480.34,INR,RTGS,CC400,Completed,INV-71894
+TXN0109,2025-05-05,General Ledger,Bank Transfer,BluePeak Consulting,12319.24,INR,Bank Transfer,CC300,Completed,INV-64387
+TXN0110,2025-06-24,Payroll,Expense Reimbursement,Evergreen Logistics,9290.25,INR,Credit Card,CC500,Completed,INV-96499
+TXN0111,2025-09-08,Treasury,Customer Receipt,Summit Office Products,21.41,EUR,Credit Card,CC500,Completed,INV-59441
+TXN0112,2025-08-22,Accounts Receivable,Payroll,Metro Utilities,9676.57,INR,RTGS,CC100,Completed,INV-51704
+TXN0113,2025-08-31,Treasury,Journal Entry,BluePeak Consulting,124.75,USD,RTGS,CC100,Under Review,INV-26547
+TXN0114,2025-09-15,Payroll,Expense Reimbursement,Crescent Telecom,80318.54,INR,Bank Transfer,CC500,Failed,INV-69890
+TXN0115,2025-01-08,Accounts Receivable,Journal Entry,BluePeak Consulting,100.65,USD,Bank Transfer,CC400,Failed,INV-44737
+TXN0116,2025-06-23,Procurement,Expense Reimbursement,Summit Office Products,153.16,USD,Credit Card,CC400,Completed,INV-51505
+TXN0117,2025-09-07,Accounts Payable,Expense Reimbursement,Evergreen Logistics,106.18,EUR,UPI,CC100,Completed,INV-66881
+TXN0118,2025-02-20,Procurement,Journal Entry,Evergreen Logistics,3665.15,INR,Bank Transfer,CC100,Completed,INV-52516
+TXN0119,2025-01-29,Payroll,Payroll,Metro Utilities,26144.64,INR,Credit Card,CC400,Completed,INV-84177
+TXN0120,2025-04-03,Accounts Receivable,Customer Receipt,Apex Services,18753.64,INR,Credit Card,CC200,Completed,INV-75230
+TXN0121,2025-03-15,Treasury,Customer Receipt,ABC Technologies,19387.37,INR,RTGS,CC300,Completed,INV-98815
+TXN0122,2025-10-07,Accounts Payable,Customer Receipt,Evergreen Logistics,54.72,USD,RTGS,CC300,Under Review,INV-69878
+TXN0123,2025-06-04,Treasury,Customer Receipt,Apex Services,390.54,USD,Credit Card,CC300,Completed,INV-85341
+TXN0124,2025-06-01,Payroll,Journal Entry,,3006.18,INR,NEFT,CC100,Under Review,INV-84177
+TXN0125,2025-01-26,Procurement,Expense Reimbursement,,195.19,USD,UPI,CC500,Pending,INV-56179
+TXN0126,2025-04-23,Accounts Receivable,Journal Entry,BluePeak Consulting,703.83,EUR,Bank Transfer,CC100,Completed,INV-50492
+TXN0127,2025-08-14,General Ledger,Invoice Payment,Northstar Supplies,4264.35,INR,NEFT,CC300,Completed,INV-64460
+TXN0128,2025-03-31,Accounts Receivable,Customer Receipt,Summit Office Products,67.58,EUR,Credit Card,CC500,Failed,INV-45720
+TXN0129,2025-03-26,Treasury,Payroll,Summit Office Products,10771.98,INR,Bank Transfer,CC400,Completed,INV-19869
+TXN0130,2025-03-14,Procurement,Customer Receipt,Summit Office Products,77.26,USD,Bank Transfer,CC400,Under Review,INV-11824
+TXN0131,2025-05-16,Accounts Payable,Expense Reimbursement,Evergreen Logistics,31.72,USD,Credit Card,CC400,Completed,INV-93695
+TXN0132,2025-07-10,general ledger,Invoice Payment,Summit Office Products,10491.06,INR,Credit Card,CC200,Completed,INV-94889
+TXN0133,2025-02-02,Treasury,Journal Entry,Northstar Supplies,4011.99,INR,UPI,CC100,Completed,INV-14877
+TXN0134,2025-06-05,Accounts Payable,Bank Transfer,BluePeak Consulting,14802.53,INR,RTGS,CC400,Completed,INV-58629
+TXN0135,2025-10-04,General Ledger,Bank Transfer,Northstar Supplies,4530.06,INR,RTGS,CC500,Failed,INV-63492
+TXN0136,2025-05-24,Procurement,Invoice Payment,Crescent Telecom,36954.56,INR,UPI,CC300,Completed,INV-23022
+TXN0137,2025-07-08,Procurement,Expense Reimbursement,Evergreen Logistics,5085.94,INR,UPI,CC100,Completed,INV-69600
+TXN0138,2025-02-16,Accounts Receivable,Journal Entry,ABC Technologies,83.17,EUR,NEFT,CC200,Under Review,INV-26505
+TXN0139,2025-10-17,Accounts Payable,Customer Receipt,Metro Utilities,218.36,EUR,UPI,CC300,Completed,INV-29340
+TXN0140,2025-01-02,Accounts Receivable,Payroll,BluePeak Consulting,3476.44,INR,Bank Transfer,CC100,Completed,INV-27275
+TXN0141,2025-01-08,Accounts Receivable,Payroll,BluePeak Consulting,132.69,EUR,NEFT,CC100,Completed,INV-26614
+TXN0142,2025-08-04,Accounts Payable,Expense Reimbursement,Summit Office Products,30063.63,INR,Credit Card,CC500,Completed,INV-24293
+TXN0143,2025-08-20,Accounts Receivable,Expense Reimbursement,Evergreen Logistics,27.89,EUR,RTGS,CC100,Completed,INV-17972
+TXN0144,2025-09-03,Treasury,Bank Transfer,Crescent Telecom,11578.89,INR,Bank Transfer,CC100,Completed,INV-52219
+TXN0145,2025-03-17,TREASURY,Invoice Payment,Summit Office Products,12343.69,INR,RTGS,CC500,Completed,INV-79541
+TXN0146,2025-05-31,General Ledger,Bank Transfer,Northstar Supplies,212.55,EUR,Credit Card,CC200,Completed,INV-66370
+TXN0147,2025-08-20,Treasury,Customer Receipt,Apex Services,3458.51,INR,RTGS,CC100,Pending,INV-50966
+TXN0148,2025-08-07,Procurement,Payroll,BluePeak Consulting,3221.53,INR,RTGS,CC100,Completed,INV-21957
+TXN0149,2025-02-13,Treasury,Invoice Payment,Summit Office Products,15423.54,INR,UPI,CC500,Completed,INV-17861
+TXN0150,2025-10-15,Payroll,Expense Reimbursement,Apex Services,12739.17,INR,Bank Transfer,CC300,Completed,INV-88696
+TXN0151,2025-06-09,Accounts Payable,Payroll,BluePeak Consulting,135.31,EUR,RTGS,CC200,Completed,INV-24184
+TXN0152,2025-06-29,Payroll,Expense Reimbursement,Metro Utilities,13286.2,INR,RTGS,CC500,Pending,INV-91490
+TXN0153,2025-10-13,General Ledger,Invoice Payment,Evergreen Logistics,5552.36,INR,NEFT,CC300,Completed,INV-56009
+TXN0154,2025-01-04,Accounts Receivable,Customer Receipt,Northstar Supplies,133.23,EUR,UPI,CC100,Completed,INV-22026
+TXN0155,2025-09-29,Treasury,Customer Receipt,BluePeak Consulting,152.06,USD,NEFT,CC300,Completed,INV-52517
+TXN0156,2025-10-18,Accounts Payable,Expense Reimbursement,ABC Technologies,5392.7,INR,Bank Transfer,CC300,Completed,INV-68079
+TXN0157,2025-08-06,General Ledger,Bank Transfer,Metro Utilities,578.86,USD,Credit Card,CC100,Completed,INV-55242
+TXN0158,2025-08-09,Payroll,Invoice Payment,Evergreen Logistics,163.6,EUR,Bank Transfer,CC200,Completed,INV-61807
+TXN0159,2025-01-29,Accounts Receivable,Invoice Payment,BluePeak Consulting,3595.33,INR,NEFT,CC300,Under Review,INV-53007
+TXN0160,2025-03-03,Treasury,Invoice Payment,Apex Services,207.1,USD,Credit Card,CC200,Completed,INV-75570
+TXN0161,2025-10-14,Payroll,Journal Entry,ABC Technologies,4322.2,INR,RTGS,CC100,Completed,INV-70260
+TXN0162,2025-02-09,General Ledger,Payroll,Apex Services,231.41,USD,NEFT,CC100,Completed,INV-63088
+TXN0163,2025-01-11,Accounts Receivable,Payroll,Summit Office Products,292.79,EUR,Bank Transfer,CC400,Completed,INV-23875
+TXN0164,2025-05-05,General Ledger,Bank Transfer,Apex Services,59.0,USD,NEFT,CC300,Completed,INV-39041
+TXN0165,2025-06-20,Accounts Payable,Customer Receipt,Metro Utilities,248.02,EUR,NEFT,,Completed,INV-94599
+TXN0166,2025-03-17,Accounts Payable,Customer Receipt,BluePeak Consulting,14056.83,INR,Credit Card,CC200,Completed,INV-95918
+TXN0167,2025-02-08,Procurement,Customer Receipt,Crescent Telecom,238.39,USD,Credit Card,CC500,Completed,INV-52363
+TXN0168,2025-06-11,Treasury,Customer Receipt,Evergreen Logistics,49626.19,INR,NEFT,CC500,Completed,INV-17362
+TXN0169,2025-06-30,Accounts Payable,Expense Reimbursement,ABC Technologies,8033.86,INR,Bank Transfer,CC300,Completed,INV-47627
+TXN0170,2025-02-09,Accounts Payable,Journal Entry,Apex Services,57.63,EUR,RTGS,CC500,Completed,INV-82655
+TXN0171,2025-01-22,General Ledger,Bank Transfer,Crescent Telecom,4646.7,INR,Credit Card,CC200,Completed,INV-18109
+TXN0172,2025-08-19,Payroll,Invoice Payment,BluePeak Consulting,4947.12,INR,Bank Transfer,CC200,Completed,INV-67377
+TXN0173,2025-08-13,General Ledger,Expense Reimbursement,Summit Office Products,102.42,EUR,NEFT,CC400,Completed,INV-63578
+TXN0174,2025-06-23,General Ledger,Journal Entry,Summit Office Products,13226.52,INR,Bank Transfer,CC300,Pending,INV-22387
+TXN0175,2025-10-13,Treasury,Journal Entry,BluePeak Consulting,12521.31,INR,NEFT,CC100,Completed,INV-86380
+TXN0176,2025-03-14,Payroll,Payroll,Northstar Supplies,239.43,USD,NEFT,CC500,Completed,INV-59372
+TXN0177,2025-06-18,Procurement,Customer Receipt,Apex Services,110.58,EUR,Credit Card,CC300,Completed,INV-12389
+TXN0178,2025-07-05,Accounts Receivable,Payroll,,34047.23,INR,UPI,CC200,Completed,INV-28030
+TXN0179,2025-03-21,Payroll,Invoice Payment,ABC Technologies,7903.35,INR,NEFT,CC500,Completed,INV-27176
+TXN0180,2025-07-12,Accounts Receivable,Customer Receipt,BluePeak Consulting,99921.86,INR,RTGS,CC100,Pending,INV-63852
+TXN0181,2025-07-06,Procurement,Journal Entry,Evergreen Logistics,16845.14,INR,RTGS,CC200,Under Review,INV-79993
+TXN0182,2025-05-03,Treasury,Payroll,Crescent Telecom,4776.27,INR,RTGS,CC300,Completed,INV-60052
+TXN0183,2025-09-15,Treasury,Expense Reimbursement,BluePeak Consulting,3982.8,INR,NEFT,CC100,Pending,INV-94040
+TXN0184,2025-09-04,General Ledger,Payroll,Northstar Supplies,14914.68,INR,NEFT,CC100,Completed,INV-31012
+TXN0185,2025-05-20,General Ledger,Bank Transfer,Northstar Supplies,8184.98,INR,UPI,CC400,Pending,INV-55820
+TXN0186,2025-01-14,Accounts Payable,Bank Transfer,Metro Utilities,217.47,USD,RTGS,CC100,Completed,INV-59140
+TXN0187,2025-04-25,Payroll,Invoice Payment,Summit Office Products,14798.07,INR,UPI,CC200,Pending,INV-15020
+TXN0188,2025-05-27,Procurement,Bank Transfer,Crescent Telecom,9303.03,INR,RTGS,CC500,Pending,INV-10688
+TXN0189,2025-02-10,Payroll,Invoice Payment,Apex Services,4818.54,INR,Bank Transfer,CC300,Pending,INV-41147
+TXN0190,2025-06-04,Accounts Payable,Invoice Payment,Crescent Telecom,2730.88,INR,Bank Transfer,CC100,Completed,INV-75513
+TXN0191,2025-10-02,Procurement,Invoice Payment,BluePeak Consulting,74.82,EUR,NEFT,CC400,Completed,INV-10205
+TXN0192,2025-06-30,General Ledger,Customer Receipt,Northstar Supplies,245.45,USD,Credit Card,CC300,Completed,INV-18870
+TXN0193,2025-09-27,General Ledger,Expense Reimbursement,Apex Services,131.19,EUR,RTGS,CC100,Completed,INV-93318
+TXN0194,2025-07-18,Payroll,Payroll,Northstar Supplies,3432.77,INR,NEFT,CC200,Completed,INV-96127
+TXN0195,2025-02-23,Procurement,Expense Reimbursement,Summit Office Products,11466.72,INR,Credit Card,CC300,Completed,INV-94252
+TXN0196,2025-03-31,Treasury,Journal Entry,BluePeak Consulting,164.46,USD,Bank Transfer,,Completed,INV-14847
+TXN0197,2025-05-31,Accounts Payable,Customer Receipt,Summit Office Products,4669.1,INR,NEFT,CC500,Failed,INV-62196
+TXN0198,2025-10-06,TREASURY,Bank Transfer,Metro Utilities,11278.64,INR,NEFT,CC300,Pending,INV-16265
+TXN0199,2025-06-19,Accounts Payable,Payroll,Apex Services,10399.13,INR,RTGS,CC400,Completed,INV-54438
+TXN0200,2025-04-06,Procurement,Bank Transfer,Evergreen Logistics,44.86,USD,Bank Transfer,CC400,Completed,INV-20345
+TXN0201,2025-08-09,Accounts Receivable,Expense Reimbursement,Northstar Supplies,148.23,EUR,Bank Transfer,CC300,Completed,INV-96628
+TXN0202,2025-06-01,Treasury,Payroll,BluePeak Consulting,176.15,EUR,RTGS,CC300,Completed,INV-68606
+TXN0203,2025-01-22,Payroll,Journal Entry,Evergreen Logistics,274.58,EUR,Bank Transfer,CC100,Under Review,INV-97973
+TXN0204,2025-07-27,General Ledger,Payroll,BluePeak Consulting,24239.33,INR,Credit Card,CC400,Under Review,INV-14561
+TXN0205,2025-03-06,Accounts Receivable,Invoice Payment,ABC Technologies,3068.61,INR,Credit Card,CC200,Completed,INV-99006
+TXN0206,2025-08-19,Payroll,Payroll,BluePeak Consulting,53.41,USD,Credit Card,CC300,Pending,INV-62171
+TXN0207,2025-06-10,Payroll,Journal Entry,ABC Technologies,15333.27,INR,UPI,CC400,Under Review,INV-77861
+TXN0208,2025-07-18,Accounts Payable,Expense Reimbursement,Crescent Telecom,15316.99,INR,UPI,CC500,Pending,INV-47431
+TXN0209,2025-09-09,Accounts Payable,Customer Receipt,Crescent Telecom,15333.43,INR,UPI,CC400,Pending,INV-21506
+TXN0210,2025-06-13,Payroll,Journal Entry,Evergreen Logistics,261665.37,INR,NEFT,CC200,Completed,INV-93584
+TXN0211,2025-03-31,General Ledger,Payroll,Metro Utilities,16078.8,INR,UPI,CC200,Completed,INV-74752
+TXN0212,2025-01-14,General Ledger,Payroll,BluePeak Consulting,287.11,EUR,Credit Card,CC100,Completed,INV-18617
+TXN0213,2025-06-08,Procurement,Bank Transfer,Apex Services,266.68,USD,Credit Card,CC100,Completed,INV-26426
+TXN0214,2025-06-12,Accounts Payable,Journal Entry,Summit Office Products,206.2,USD,UPI,CC500,Completed,INV-93859
+TXN0215,2025-04-04,Treasury,Customer Receipt,ABC Technologies,83.65,EUR,Bank Transfer,CC500,Failed,INV-30056
+TXN0216,2025-06-05,Accounts Receivable,Customer Receipt,Metro Utilities,18866.14,INR,NEFT,CC500,Under Review,INV-47230
+TXN0217,2025-02-10,Accounts Receivable,Payroll,Evergreen Logistics,56.7,EUR,Credit Card,CC500,Completed,INV-22245
+TXN0218,2025-09-15,Accounts Receivable,Journal Entry,BluePeak Consulting,89.42,EUR,UPI,CC500,Under Review,INV-89316
+TXN0219,2025-06-22,Accounts Payable,Expense Reimbursement,Evergreen Logistics,6551.45,INR,UPI,CC500,Completed,INV-64602
+TXN0220,2025-01-16,Procurement,Bank Transfer,Evergreen Logistics,117.24,EUR,RTGS,CC200,Completed,INV-99783
+TXN0221,2025-07-27,Treasury,Payroll,BluePeak Consulting,70789.06,INR,RTGS,CC400,Completed,INV-73471
+TXN0222,2025-08-26,Payroll,Customer Receipt,Summit Office Products,22.36,EUR,NEFT,CC400,Completed,INV-27139
+TXN0223,2025-07-09,General Ledger,Expense Reimbursement,Crescent Telecom,17735.46,INR,Bank Transfer,CC300,Completed,INV-68929
+TXN0224,2025-05-07,Accounts Payable,Customer Receipt,Apex Services,2512.9,INR,Credit Card,CC400,Completed,INV-42541
+TXN0225,2025-03-23,General Ledger,Payroll,BluePeak Consulting,6626.67,INR,RTGS,CC500,Completed,INV-71186
+TXN0226,2025-09-13,Treasury,Payroll,Apex Services,24974.44,INR,Credit Card,CC400,Completed,INV-41552
+TXN0227,2025-04-21,Payroll,Expense Reimbursement,Crescent Telecom,10452.93,INR,Credit Card,CC400,Completed,INV-47453
+TXN0228,2025-10-02,Accounts Payable,Invoice Payment,Evergreen Logistics,47.42,USD,NEFT,CC400,Completed,INV-57964
+TXN0229,2025-01-24,Accounts Payable,Bank Transfer,,59.54,EUR,Credit Card,CC300,Completed,INV-19637
+TXN0230,2025-07-17,Treasury,Expense Reimbursement,Northstar Supplies,194.87,EUR,UPI,CC100,Completed,INV-61629
+TXN0231,2025-07-11,General Ledger,Payroll,Metro Utilities,5319.79,INR,Credit Card,CC500,Pending,INV-62610
+TXN0232,2025-09-14,Accounts Payable,Invoice Payment,Summit Office Products,11896.38,INR,RTGS,CC500,Completed,INV-69898
+TXN0233,2025-03-18,General Ledger,Expense Reimbursement,Summit Office Products,10288.03,INR,UPI,CC400,Completed,INV-90805
+TXN0234,2025-06-03,Payroll,Expense Reimbursement,Crescent Telecom,62.85,EUR,Credit Card,CC300,Pending,INV-72245
+TXN0235,2025-01-09,Payroll,Payroll,Evergreen Logistics,61227.55,INR,Bank Transfer,CC500,Under Review,INV-72205
+TXN0236,2025-05-16,General Ledger,Journal Entry,ABC Technologies,187.44,EUR,Credit Card,CC400,Completed,INV-32349
+TXN0237,2025-09-26,Procurement,Journal Entry,Apex Services,19.56,EUR,UPI,CC200,Pending,INV-14138
+TXN0238,2025-02-26,Accounts Payable,Customer Receipt,BluePeak Consulting,138.88,USD,RTGS,CC200,Completed,INV-63788
+TXN0239,2025-09-14,Treasury,Expense Reimbursement,Metro Utilities,5639.11,INR,Credit Card,CC300,Completed,INV-96799
+TXN0240,2025-09-02,Treasury,Expense Reimbursement,Crescent Telecom,20426.09,INR,Credit Card,CC300,Under Review,INV-81601
+TXN0241,2025-07-01,Procurement,Journal Entry,Metro Utilities,5046.03,INR,UPI,CC300,Completed,INV-83149
+TXN0242,2025-06-02,Payroll,Customer Receipt,Crescent Telecom,8977.48,INR,NEFT,CC400,Completed,INV-55718
+TXN0243,2025-10-14,Payroll,Journal Entry,Apex Services,15202.87,INR,RTGS,CC300,Completed,INV-29198
+TXN0244,2025-05-29,Payroll,Invoice Payment,Crescent Telecom,20658.7,INR,NEFT,CC400,Completed,INV-38047
+TXN0245,2025-04-14,Payroll,Expense Reimbursement,BluePeak Consulting,39.42,EUR,Bank Transfer,CC500,Completed,INV-86917
+TXN0246,2025-05-03,Accounts Payable,Customer Receipt,Metro Utilities,82.3,EUR,Bank Transfer,CC100,Completed,INV-64172
+TXN0247,2025-06-19,Treasury,Journal Entry,BluePeak Consulting,6609.72,INR,Bank Transfer,CC500,Completed,INV-30701
+TXN0248,2025-07-28,Treasury,Journal Entry,Evergreen Logistics,68.02,USD,NEFT,CC300,Completed,INV-94659
+TXN0249,2025-01-31,Procurement,Invoice Payment,ABC Technologies,490.43,EUR,UPI,CC400,Completed,INV-33040
+TXN0250,2025-01-19,Treasury,Bank Transfer,Evergreen Logistics,13963.95,INR,Bank Transfer,CC100,Under Review,INV-49110
+TXN0251,2025-10-18,Accounts Payable,Expense Reimbursement,Crescent Telecom,3388.86,INR,UPI,CC500,Completed,INV-71344
+TXN0252,2025-05-20,Accounts Payable,Customer Receipt,Crescent Telecom,21594.26,INR,NEFT,CC200,Completed,INV-11846
+TXN0253,2025-06-22,General Ledger,Payroll,Apex Services,60104.07,INR,RTGS,CC500,Completed,INV-52982
+TXN0254,2025-02-14,Procurement,Bank Transfer,BluePeak Consulting,23803.68,INR,RTGS,CC300,Completed,INV-42512
+TXN0255,2025-01-04,Treasury,Payroll,Evergreen Logistics,2720.4,INR,NEFT,CC300,Completed,INV-86344
+TXN0256,2025-01-06,Procurement,Payroll,ABC Technologies,6557.74,INR,Bank Transfer,CC400,Completed,INV-50213
+TXN0257,2025-03-23,Procurement,Bank Transfer,Evergreen Logistics,321.03,EUR,Bank Transfer,CC300,Under Review,INV-58174
+TXN0258,2025-04-24,Accounts Receivable,Customer Receipt,Summit Office Products,64.95,USD,RTGS,CC500,Completed,INV-71712
+TXN0259,2025-10-03,Accounts Receivable,Journal Entry,Northstar Supplies,14432.62,INR,Credit Card,CC400,Completed,INV-79228
+TXN0260,2025-07-05,General Ledger,Invoice Payment,Metro Utilities,19119.02,INR,Credit Card,CC500,Completed,INV-29641
+TXN0261,2025-03-26,General Ledger,Payroll,Metro Utilities,53.91,USD,Credit Card,CC400,Completed,INV-21919
+TXN0262,2025-09-19,Accounts Payable,Bank Transfer,Apex Services,112.68,USD,RTGS,CC500,Completed,INV-17567
+TXN0263,2025-10-14,Procurement,Bank Transfer,Apex Services,629.5,INR,NEFT,CC100,Completed,INV-38560
+TXN0264,2025-02-07,Treasury,Invoice Payment,ABC Technologies,,INR,Bank Transfer,CC400,Completed,INV-14159
+TXN0265,2025-05-27,general ledger,Bank Transfer,Apex Services,7984.98,INR,NEFT,CC400,Pending,INV-68790
+TXN0266,2025-07-13,Accounts Payable,Bank Transfer,Summit Office Products,37.87,EUR,Bank Transfer,CC200,Completed,INV-80419
+TXN0267,2025-07-21,Accounts Receivable,Expense Reimbursement,ABC Technologies,39638.24,INR,NEFT,CC400,Pending,INV-98276
+TXN0268,2025-10-06,General Ledger,Bank Transfer,Metro Utilities,35.15,USD,RTGS,CC300,Pending,INV-30332
+TXN0269,2025-05-22,Procurement,Customer Receipt,Apex Services,6808.74,INR,Credit Card,CC100,Completed,INV-41544
+TXN0270,2025-04-16,Accounts Payable,Invoice Payment,ABC Technologies,122.21,EUR,UPI,CC100,Completed,INV-62725
+TXN0271,2025-08-13,General Ledger,Customer Receipt,ABC Technologies,33694.24,INR,UPI,CC500,Pending,INV-47914
+TXN0272,2025-04-30,General Ledger,Journal Entry,Summit Office Products,2920.52,INR,UPI,CC300,Completed,INV-28777
+TXN0273,2025-09-24,Treasury,Customer Receipt,BluePeak Consulting,26600.6,INR,RTGS,CC500,Completed,INV-74962
+TXN0274,not_a_date,Procurement,Payroll,Summit Office Products,119.56,USD,RTGS,CC400,Pending,INV-29558
+TXN0275,2025-06-03,Accounts Receivable,Bank Transfer,Metro Utilities,47.48,EUR,NEFT,CC200,Completed,INV-70689
+TXN0276,not_a_date,Treasury,Expense Reimbursement,BluePeak Consulting,175.55,USD,RTGS,CC200,Completed,INV-43422
+TXN0277,2025-04-15,general ledger,Payroll,Summit Office Products,11721.74,INR,Bank Transfer,CC500,Under Review,INV-34966
+TXN0278,2025-01-27,Treasury,Payroll,Northstar Supplies,65.66,EUR,UPI,CC500,Completed,INV-98008
+TXN0279,2025-10-14,Treasury,Customer Receipt,Summit Office Products,10502.11,INR,NEFT,CC100,Pending,INV-37762
+TXN0280,2025-04-08,Accounts Payable,Journal Entry,Metro Utilities,85.42,USD,RTGS,CC200,Failed,INV-82362
+TXN0281,2025-06-14,Treasury,Payroll,Summit Office Products,130.54,USD,NEFT,CC300,Completed,INV-57139
+TXN0282,2025-09-20,Treasury,Bank Transfer,Crescent Telecom,17375.41,INR,NEFT,CC200,Pending,INV-58589
+TXN0283,2025-06-10,Accounts Payable,Bank Transfer,BluePeak Consulting,421.06,EUR,Bank Transfer,CC300,Pending,INV-82523
+TXN0284,2025-08-02,Accounts Receivable,Payroll,Apex Services,3455.96,INR,Credit Card,CC200,Completed,INV-75444
+TXN0285,2025-10-09,Procurement,Journal Entry,Crescent Telecom,60662.34,INR,RTGS,CC400,Completed,INV-32050
+TXN0286,2025-06-30,Accounts Receivable,Customer Receipt,ABC Technologies,20.81,EUR,Credit Card,CC100,Completed,INV-19742
+TXN0287,2025-01-25,Treasury,Invoice Payment,Metro Utilities,8699.17,INR,Bank Transfer,CC200,Pending,INV-11198
+TXN0288,2025-04-22,Treasury,Expense Reimbursement,Crescent Telecom,16318.74,INR,RTGS,CC100,Completed,INV-10866
+TXN0289,2025-09-30,Treasury,Expense Reimbursement,Evergreen Logistics,12567.17,INR,Credit Card,CC300,Completed,INV-12246
+TXN0290,2025-09-15,Procurement,Journal Entry,BluePeak Consulting,69.82,USD,Bank Transfer,CC100,Pending,INV-78732
+TXN0291,2025-03-18,Accounts Receivable,Customer Receipt,Summit Office Products,91.63,EUR,NEFT,CC400,Completed,INV-20357
+TXN0292,2025-07-11,Treasury,Bank Transfer,Metro Utilities,71.92,EUR,NEFT,CC100,Completed,INV-95686
+TXN0293,2025-01-17,Treasury,Invoice Payment,Crescent Telecom,71.82,USD,Bank Transfer,CC100,Completed,INV-32463
+TXN0294,2025-02-12,Treasury,Bank Transfer,Northstar Supplies,20376.99,INR,Credit Card,CC100,Completed,INV-40115
+TXN0295,2025-04-19,General Ledger,Journal Entry,Northstar Supplies,160.55,USD,NEFT,CC500,Completed,INV-83860
+TXN0296,2025-01-17,Payroll,Customer Receipt,BluePeak Consulting,5491.89,INR,RTGS,CC100,Under Review,INV-49226
+TXN0297,2025-03-25,Accounts Receivable,Expense Reimbursement,Apex Services,234.94,EUR,Credit Card,CC300,Pending,INV-60311
+TXN0298,2025-03-13,Procurement,Journal Entry,Summit Office Products,12851.36,INR,Bank Transfer,CC100,Completed,INV-67290
+TXN0299,2025-04-29,Payroll,Invoice Payment,Apex Services,218.24,EUR,NEFT,CC100,Pending,INV-93115
+TXN0300,2025-05-20,Treasury,Bank Transfer,Apex Services,16901.95,INR,RTGS,CC200,Completed,INV-99088
+TXN0301,2025-07-14,General Ledger,Invoice Payment,Northstar Supplies,4891.99,INR,Bank Transfer,CC300,Pending,INV-30214
+TXN0302,2025-07-14,Procurement,Journal Entry,Summit Office Products,6147.78,INR,NEFT,CC100,Completed,INV-21995
+TXN0303,2025-01-03,Treasury,Payroll,Northstar Supplies,18679.83,INR,UPI,CC100,Pending,INV-34561
+TXN0304,2025-08-09,General Ledger,Bank Transfer,Northstar Supplies,183.73,EUR,Bank Transfer,CC100,Completed,INV-56388
+TXN0305,2025-10-11,General Ledger,Invoice Payment,Apex Services,107.43,EUR,Bank Transfer,CC300,Pending,INV-64238
+TXN0306,2025-07-18,Procurement,Invoice Payment,Metro Utilities,120.83,EUR,Credit Card,CC500,Failed,INV-32227
+TXN0307,2025-07-14,Accounts Receivable,Customer Receipt,Crescent Telecom,29319.71,INR,UPI,CC100,Completed,INV-31916
+TXN0308,2025-08-11,Treasury,Payroll,Northstar Supplies,5985.91,INR,NEFT,CC300,Completed,INV-42321
+TXN0309,2025-09-11,General Ledger,Expense Reimbursement,BluePeak Consulting,15756.89,INR,NEFT,CC100,Completed,INV-61864
+TXN0310,2025-06-20,Treasury,Expense Reimbursement,Apex Services,8334.31,INR,Credit Card,CC200,Completed,INV-49378
+TXN0311,2025-06-14,Procurement,Expense Reimbursement,BluePeak Consulting,8225.31,INR,RTGS,CC300,Completed,INV-48200
+TXN0312,2025-09-09,Accounts Receivable,Expense Reimbursement,Apex Services,25183.9,INR,NEFT,CC100,Completed,INV-83905
+TXN0313,2025-04-13,General Ledger,Expense Reimbursement,ABC Technologies,19962.36,INR,RTGS,CC200,Completed,INV-67469
+TXN0314,2025-05-30,Accounts Payable,Journal Entry,BluePeak Consulting,236.66,USD,NEFT,CC200,Completed,INV-43119
+TXN0315,2025-03-20,Treasury,Journal Entry,,359.53,USD,Credit Card,CC400,Completed,INV-80040
+TXN0316,2025-09-17,Treasury,Journal Entry,Summit Office Products,111.33,EUR,Credit Card,CC500,Completed,INV-93647
+TXN0317,2025-02-13,Accounts Receivable,Invoice Payment,ABC Technologies,17670.64,INR,Credit Card,CC400,Completed,INV-53463
+TXN0318,2025-08-09,Accounts Payable,Invoice Payment,Metro Utilities,7602.81,INR,RTGS,CC300,Completed,INV-61266
+TXN0319,2025-08-26,General Ledger,Journal Entry,,144.05,EUR,RTGS,CC100,Completed,INV-48722
+TXN0320,2025-08-01,Accounts Payable,Invoice Payment,Summit Office Products,8860.68,INR,RTGS,CC200,Completed,INV-78303
+TXN0321,not_a_date,Treasury,Payroll,Crescent Telecom,10747.69,INR,NEFT,CC100,Completed,INV-49356
+TXN0322,2025-01-23,Accounts Payable,Journal Entry,Northstar Supplies,16413.89,INR,UPI,CC200,Pending,INV-77632
+TXN0323,not_a_date,Accounts Receivable,Expense Reimbursement,Crescent Telecom,4937.0,INR,UPI,CC400,Completed,INV-92543
+TXN0324,2025-04-05,Procurement,Customer Receipt,Metro Utilities,701.82,USD,RTGS,CC500,Completed,INV-66302
+TXN0325,2025-07-19,Procurement,Invoice Payment,Northstar Supplies,4208.6,INR,Credit Card,CC100,Completed,INV-80371
+TXN0326,2025-04-06,Payroll,Payroll,Evergreen Logistics,3526.07,INR,RTGS,CC500,Completed,INV-93769
+TXN0327,2025-06-10,Treasury,Expense Reimbursement,Northstar Supplies,292.67,EUR,NEFT,CC300,Completed,INV-70012
+TXN0328,2025-03-30,Procurement,Journal Entry,Northstar Supplies,19397.77,INR,UPI,CC300,Failed,INV-25448
+TXN0329,2025-05-03,Accounts Payable,Payroll,,16822.99,INR,Credit Card,CC400,Completed,INV-64819
+TXN0330,2025-03-12,Treasury,Expense Reimbursement,BluePeak Consulting,202.2,USD,Credit Card,CC200,Completed,INV-74178
+TXN0331,2025-05-28,Accounts Receivable,Customer Receipt,ABC Technologies,9794.64,INR,NEFT,CC100,Pending,INV-73518
+TXN0332,2025-03-11,Treasury,Customer Receipt,Crescent Telecom,51.01,EUR,RTGS,CC400,Completed,INV-64477
+TXN0333,2025-08-16,Accounts Receivable,Bank Transfer,Metro Utilities,10555.83,INR,NEFT,CC100,Completed,INV-46025
+TXN0334,2025-04-26,Payroll,Expense Reimbursement,Crescent Telecom,5565.89,INR,Credit Card,CC500,Pending,INV-24838
+TXN0335,2025-02-28,General Ledger,Payroll,ABC Technologies,22671.22,INR,RTGS,CC500,Completed,INV-38644
+TXN0336,2025-08-06,Procurement,Invoice Payment,ABC Technologies,8734.2,INR,RTGS,CC300,Completed,INV-55688
+TXN0337,2025-02-14,Accounts Payable,Bank Transfer,Summit Office Products,4906.56,INR,Credit Card,CC400,Completed,INV-31755
+TXN0338,2025-03-13,Accounts Receivable,Customer Receipt,Evergreen Logistics,7531.29,INR,Credit Card,CC500,Completed,INV-32069
+TXN0339,2025-06-15,Payroll,Journal Entry,Northstar Supplies,14058.63,INR,UPI,CC400,Completed,INV-17770
+TXN0340,2025-05-22,Accounts Receivable,Journal Entry,Summit Office Products,6129.29,INR,UPI,CC400,Completed,INV-74154
+TXN0341,2025-03-14,Procurement,Expense Reimbursement,Apex Services,4920.24,INR,RTGS,CC100,Completed,INV-93050
+TXN0342,2025-02-17,General Ledger,Bank Transfer,Summit Office Products,12174.93,INR,RTGS,CC400,Completed,INV-52898
+TXN0343,2025-01-02,Accounts Payable,Journal Entry,,145.97,USD,Bank Transfer,CC500,Completed,INV-62129
+TXN0344,not_a_date,Accounts Receivable,Bank Transfer,Evergreen Logistics,77.03,USD,NEFT,CC500,Completed,INV-85750
+TXN0345,2025-03-08,Treasury,Expense Reimbursement,ABC Technologies,6631.71,INR,Bank Transfer,CC100,Failed,INV-92074
+TXN0346,2025-08-24,Accounts Payable,Invoice Payment,ABC Technologies,12055.09,INR,RTGS,CC200,Completed,INV-27290
+TXN0347,2025-06-04,Payroll,Customer Receipt,Evergreen Logistics,2890.34,INR,Bank Transfer,CC300,Completed,INV-97098
+TXN0348,2025-03-26,Treasury,Invoice Payment,Metro Utilities,2991.88,INR,RTGS,CC100,Completed,INV-22475
+TXN0349,2025-01-01,Treasury,Customer Receipt,Metro Utilities,5373.97,INR,Credit Card,CC400,Completed,INV-11217
+TXN0350,2025-01-05,Payroll,Journal Entry,Apex Services,8254.96,INR,UPI,,Under Review,INV-19283
+TXN0351,2025-04-28,Accounts Payable,Bank Transfer,Summit Office Products,12890.83,INR,NEFT,CC200,Completed,INV-60164
+TXN0352,2025-03-10,Procurement,Journal Entry,ABC Technologies,34684.66,INR,Credit Card,CC200,Completed,INV-67684
+TXN0353,2025-06-29,Accounts Receivable,Journal Entry,Crescent Telecom,20517.03,INR,UPI,CC100,Failed,INV-23168
+TXN0354,2025-03-13,General Ledger,Invoice Payment,Apex Services,103.46,USD,NEFT,CC200,Completed,INV-42477
+TXN0355,2025-05-22,Accounts Payable,Journal Entry,Evergreen Logistics,9738.44,INR,Bank Transfer,CC300,Completed,INV-36928
+TXN0356,2025-09-23,General Ledger,Expense Reimbursement,Evergreen Logistics,4221.1,INR,Bank Transfer,CC200,Completed,INV-74865
+TXN0357,2025-07-17,Accounts Receivable,Invoice Payment,Northstar Supplies,116.68,USD,Credit Card,CC100,Completed,INV-57329
+TXN0358,2025-06-12,Treasury,Customer Receipt,BluePeak Consulting,85.57,EUR,RTGS,CC100,Completed,INV-12187
+TXN0359,2025-02-04,Payroll,Invoice Payment,ABC Technologies,13020.9,INR,RTGS,CC500,Completed,INV-47550
+TXN0360,2025-09-14,Treasury,Bank Transfer,BluePeak Consulting,58.67,USD,NEFT,CC100,Completed,INV-50620
+TXN0361,2025-02-10,Accounts Receivable,Expense Reimbursement,Apex Services,15389.56,INR,Credit Card,CC100,Completed,INV-50654
+TXN0362,2025-08-12,Accounts Receivable,Journal Entry,Apex Services,36418.35,INR,Bank Transfer,CC400,Completed,INV-90254
+TXN0363,2025-01-29,Procurement,Payroll,BluePeak Consulting,9023.2,INR,Bank Transfer,CC200,Completed,INV-75065
+TXN0364,2025-06-27,General Ledger,Expense Reimbursement,BluePeak Consulting,13925.19,INR,NEFT,CC100,Completed,INV-13847
+TXN0365,2025-06-21,Payroll,Bank Transfer,Northstar Supplies,196.62,EUR,RTGS,CC400,Completed,INV-76949
+TXN0366,2025-07-04,Treasury,Invoice Payment,BluePeak Consulting,77.76,EUR,NEFT,CC100,Completed,INV-85223
+TXN0367,2025-03-01,Procurement,Customer Receipt,ABC Technologies,132.31,EUR,UPI,CC100,Completed,INV-71835
+TXN0368,2025-07-06,Accounts Receivable,Bank Transfer,ABC Technologies,10003.63,INR,Credit Card,CC400,Under Review,INV-39427
+TXN0369,2025-06-14,Treasury,Customer Receipt,Northstar Supplies,10753.91,INR,Credit Card,CC300,Completed,INV-25650
+TXN0370,2025-09-15,Accounts Payable,Journal Entry,ABC Technologies,5130.41,INR,RTGS,CC100,Completed,INV-70960
+TXN0371,2025-05-25,TREASURY,Payroll,ABC Technologies,10105.49,INR,NEFT,CC200,Completed,INV-48219
+TXN0372,2025-10-16,Procurement,Payroll,Summit Office Products,166.99,EUR,Credit Card,CC400,Completed,INV-35614
+TXN0373,2025-10-07,Accounts Receivable,Customer Receipt,ABC Technologies,33978.12,INR,UPI,CC500,Under Review,INV-55406
+TXN0374,2025-01-05,Accounts Payable,Payroll,Evergreen Logistics,267.88,USD,Bank Transfer,CC200,Pending,INV-79443
+TXN0375,2025-05-02,Treasury,Bank Transfer,BluePeak Consulting,61710.24,INR,NEFT,CC100,Under Review,INV-15754
+TXN0376,2025-04-29,Treasury,Expense Reimbursement,Northstar Supplies,5155.17,INR,Credit Card,CC100,Completed,INV-76247
+TXN0377,2025-03-10,Treasury,Journal Entry,ABC Technologies,20774.31,INR,RTGS,CC200,Completed,INV-41034
+TXN0378,2025-05-30,Payroll,Payroll,Summit Office Products,138.52,USD,NEFT,CC400,Completed,INV-45645
+TXN0379,2025-04-30,Accounts Receivable,Invoice Payment,Northstar Supplies,63661.32,INR,UPI,CC100,Pending,INV-31544
+TXN0380,2025-08-19,Payroll,Bank Transfer,Summit Office Products,59.63,USD,UPI,CC400,Completed,INV-50410
+TXN0381,2025-08-26,Accounts Payable,Payroll,Evergreen Logistics,4847.59,INR,Credit Card,CC100,Completed,INV-38183
+TXN0382,2025-06-17,Accounts Payable,Customer Receipt,Apex Services,5946.25,INR,Credit Card,CC100,Under Review,INV-98759
+TXN0383,2025-06-03,Accounts Receivable,Payroll,Crescent Telecom,1627.32,INR,Credit Card,CC500,Under Review,INV-42748
+TXN0384,2025-02-18,Accounts Payable,Bank Transfer,ABC Technologies,6330.33,INR,UPI,CC200,Completed,INV-35969
+TXN0385,2025-07-25,Procurement,Payroll,Evergreen Logistics,5191.29,INR,Bank Transfer,CC100,Completed,INV-18450
+TXN0386,2025-04-12,Treasury,Journal Entry,Summit Office Products,11246.75,INR,Bank Transfer,CC100,Completed,INV-70423
+TXN0387,2025-01-26,General Ledger,Customer Receipt,Apex Services,158.48,USD,RTGS,CC100,Pending,INV-60165
+TXN0388,2025-08-07,Payroll,Customer Receipt,Evergreen Logistics,48763.88,INR,NEFT,CC400,Failed,INV-29481
+TXN0389,2025-01-18,General Ledger,Expense Reimbursement,Evergreen Logistics,245.31,EUR,RTGS,CC400,Completed,INV-82179
+TXN0390,2025-09-03,Accounts Payable,Invoice Payment,Apex Services,6061.01,INR,UPI,CC500,Completed,INV-42656
+TXN0391,2025-10-06,Treasury,Invoice Payment,Crescent Telecom,4611.68,INR,NEFT,CC500,Completed,INV-75849
+TXN0392,2025-06-14,Payroll,Bank Transfer,Metro Utilities,15034.93,INR,Bank Transfer,CC300,Completed,INV-17679
+TXN0393,2025-08-30,Payroll,Expense Reimbursement,BluePeak Consulting,35.6,EUR,Bank Transfer,CC200,Under Review,INV-96096
+TXN0394,2025-05-04,General Ledger,Payroll,Metro Utilities,46945.37,INR,Credit Card,CC400,Pending,INV-56504
+TXN0395,2025-03-30,TREASURY,Customer Receipt,Summit Office Products,298.02,EUR,Credit Card,CC100,Completed,INV-56095
+TXN0396,2025-10-18,Accounts Receivable,Expense Reimbursement,Crescent Telecom,,EUR,Credit Card,CC300,Under Review,INV-33010
+TXN0397,2025-09-09,Accounts Payable,Invoice Payment,Metro Utilities,2307.31,INR,Bank Transfer,CC500,Completed,INV-72650
+TXN0398,2025-01-01,General Ledger,Payroll,Summit Office Products,31281.79,INR,UPI,CC300,Pending,INV-17806
+TXN0399,2025-01-12,General Ledger,Customer Receipt,Summit Office Products,8978.98,INR,Bank Transfer,CC300,Pending,INV-96787
+TXN0400,2025-07-22,Accounts Payable,Expense Reimbursement,BluePeak Consulting,28343.24,INR,UPI,CC400,Completed,INV-93789
+TXN0401,2025-09-07,Payroll,Journal Entry,Summit Office Products,2552.27,INR,UPI,CC500,Completed,INV-32983
+TXN0402,2025-07-13,Procurement,Payroll,ABC Technologies,5946.34,INR,Credit Card,CC400,Completed,INV-84381
+TXN0403,2025-01-17,General Ledger,Customer Receipt,Metro Utilities,9941.34,INR,Credit Card,CC100,Under Review,INV-75035
+TXN0404,2025-03-14,Procurement,Payroll,Summit Office Products,10300.35,INR,UPI,CC100,Completed,INV-97821
+TXN0405,2025-06-21,Accounts Payable,Bank Transfer,Northstar Supplies,6750.99,INR,NEFT,CC300,Completed,INV-24160
+TXN0406,2025-01-01,Treasury,Invoice Payment,BluePeak Consulting,201.26,USD,RTGS,CC400,Completed,INV-59638
+TXN0407,2025-06-29,Treasury,Expense Reimbursement,Metro Utilities,3993.9,INR,UPI,CC400,Pending,INV-19661
+TXN0408,2025-01-18,Accounts Payable,Payroll,Northstar Supplies,8768.99,INR,Bank Transfer,,Completed,INV-32296
+TXN0409,2025-07-12,Procurement,Customer Receipt,Northstar Supplies,10962.67,INR,NEFT,CC500,Completed,INV-90431
+TXN0410,2025-09-05,Accounts Payable,Journal Entry,BluePeak Consulting,183.54,USD,Credit Card,CC400,Under Review,INV-30591
+TXN0411,2025-01-28,Payroll,Invoice Payment,Apex Services,18121.83,INR,Credit Card,CC500,Under Review,INV-44768
+TXN0412,2025-05-25,Accounts Receivable,Payroll,Crescent Telecom,3804.94,INR,UPI,CC100,Completed,INV-57294
+TXN0413,2025-01-02,Accounts Payable,Bank Transfer,Crescent Telecom,2686.52,INR,UPI,CC100,Pending,INV-13373
+TXN0414,2025-04-16,Procurement,Customer Receipt,Crescent Telecom,29320.0,INR,Bank Transfer,CC300,Under Review,INV-62096
+TXN0415,2025-08-30,Procurement,Bank Transfer,Apex Services,13127.53,INR,UPI,CC300,Completed,INV-59996
+TXN0416,2025-07-09,Treasury,Customer Receipt,Crescent Telecom,5238.48,INR,NEFT,CC200,Completed,INV-45200
+TXN0417,2025-10-16,Accounts Receivable,Invoice Payment,Summit Office Products,36992.82,INR,Credit Card,CC400,Completed,INV-87296
+TXN0418,2025-04-27,Accounts Payable,Expense Reimbursement,Apex Services,130.77,USD,Credit Card,CC400,Pending,INV-85066
+TXN0419,2025-05-01,Payroll,Bank Transfer,ABC Technologies,26967.9,INR,Credit Card,CC500,Completed,INV-77740
+TXN0420,2025-03-17,Treasury,Invoice Payment,BluePeak Consulting,10481.75,INR,UPI,CC200,Under Review,INV-26539
+TXN0421,2025-01-22, accounts payable ,Bank Transfer,BluePeak Consulting,683.2,USD,Credit Card,CC300,Completed,INV-51910
+TXN0422,2025-02-04,Treasury,Invoice Payment,Summit Office Products,486.23,EUR,NEFT,CC500,Completed,INV-70051
+TXN0423,2025-01-07,General Ledger,Journal Entry,Apex Services,88.5,EUR,Bank Transfer,CC400,Completed,INV-29613
+TXN0424,2025-03-17,General Ledger,Expense Reimbursement,Northstar Supplies,249.76,EUR,Bank Transfer,CC500,Pending,INV-23237
+TXN0425,2025-05-27,Payroll,Expense Reimbursement,Crescent Telecom,205.15,USD,Credit Card,CC500,Completed,INV-72003
+TXN0426,2025-01-20,Payroll,Customer Receipt,Apex Services,379.36,USD,Bank Transfer,CC400,Completed,INV-53449
+TXN0427,2025-05-02,Procurement,Invoice Payment,Summit Office Products,52.19,USD,Bank Transfer,CC300,Under Review,INV-49722
+TXN0428,2025-06-09,Treasury,Payroll,Metro Utilities,17732.31,INR,UPI,CC300,Under Review,INV-68079
+TXN0429,2025-06-14,Procurement,Payroll,Northstar Supplies,291.43,USD,UPI,CC400,Completed,INV-37707
+TXN0430,2025-07-28,Treasury,Journal Entry,ABC Technologies,24.53,EUR,Credit Card,CC200,Pending,INV-18600
+TXN0431,2025-06-09,General Ledger,Journal Entry,ABC Technologies,43.35,USD,UPI,CC200,Completed,INV-36309
+TXN0432,2025-01-30,Accounts Payable,Customer Receipt,Summit Office Products,20.94,USD,UPI,CC300,Completed,INV-58280
+TXN0433,2025-08-26,Treasury,Expense Reimbursement,Metro Utilities,7871.5,INR,NEFT,CC400,Completed,INV-87862
+TXN0434,2025-08-17,Treasury,Customer Receipt,Summit Office Products,201.25,EUR,UPI,CC300,Completed,INV-21847
+TXN0435,2025-05-26,Treasury,Invoice Payment,Metro Utilities,35489.9,INR,UPI,CC200,Completed,INV-98826
+TXN0436,2025-04-16,Procurement,Payroll,ABC Technologies,126.23,USD,RTGS,CC200,Completed,INV-94852
+TXN0437,2025-03-30,Accounts Payable,Expense Reimbursement,Evergreen Logistics,39510.56,INR,NEFT,CC400,Completed,INV-59345
+TXN0438,2025-06-28,Payroll,Bank Transfer,Apex Services,3062.28,INR,Credit Card,CC100,Completed,INV-10963
+TXN0439,2025-09-19,Payroll,Journal Entry,Evergreen Logistics,25.71,EUR,NEFT,CC100,Completed,INV-73142
+TXN0440,2025-02-02,Payroll,Payroll,Evergreen Logistics,9440.69,INR,NEFT,CC200,Pending,INV-29651
+TXN0441,2025-09-22,Accounts Payable,Customer Receipt,Summit Office Products,151.58,EUR,UPI,CC100,Completed,INV-95904
+TXN0442,2025-09-12,Payroll,Payroll,ABC Technologies,115.28,USD,Credit Card,CC500,Completed,INV-34892
+TXN0443,2025-06-25,Procurement,Journal Entry,Crescent Telecom,1707.31,INR,NEFT,CC500,Completed,INV-49347
+TXN0444,2025-03-29,General Ledger,Journal Entry,Crescent Telecom,9175.09,INR,UPI,CC300,Completed,INV-83273
+TXN0445,2025-04-04,Payroll,Journal Entry,Metro Utilities,3265.61,INR,NEFT,CC400,Completed,INV-53426
+TXN0446,2025-07-10,General Ledger,Payroll,Northstar Supplies,17487.15,INR,RTGS,CC100,Completed,INV-93151
+TXN0447,2025-02-06,Accounts Receivable,Bank Transfer,Apex Services,149.34,EUR,Credit Card,CC300,Completed,INV-64146
+TXN0448,2025-01-28,Accounts Receivable,Customer Receipt,Crescent Telecom,4451.97,INR,UPI,CC300,Completed,INV-33639
+TXN0449,2025-02-11,Payroll,Bank Transfer,ABC Technologies,6394.63,INR,Bank Transfer,CC400,Completed,INV-45851
+TXN0450,2025-04-18,General Ledger,Customer Receipt,Northstar Supplies,4022.54,INR,UPI,CC500,Completed,INV-66847
+TXN0451,2025-08-08,Treasury,Bank Transfer,ABC Technologies,112.38,USD,Credit Card,CC200,Completed,INV-58903
+TXN0452,2025-01-08,General Ledger,Payroll,ABC Technologies,22289.5,INR,UPI,CC200,Completed,INV-55134
+TXN0453,2025-06-09,Accounts Payable,Customer Receipt,Evergreen Logistics,51.28,USD,UPI,CC100,Completed,INV-15992
+TXN0454,2025-06-02,Treasury,Payroll,Summit Office Products,167.85,EUR,RTGS,,Completed,INV-54922
+TXN0455,2025-09-08,Accounts Receivable,Payroll,Apex Services,6306.15,INR,Bank Transfer,CC200,Under Review,INV-39402
+TXN0456,2025-03-09,Procurement,Customer Receipt,BluePeak Consulting,5044.52,INR,Bank Transfer,CC300,Completed,INV-95267
+TXN0397,2025-09-09,Accounts Payable,Invoice Payment,Metro Utilities,2307.31,INR,Bank Transfer,CC500,Completed,INV-72650
+TXN0458,2025-02-25,Accounts Payable,Journal Entry,Apex Services,4105.34,INR,RTGS,CC400,Completed,INV-26199
+TXN0459,2025-10-08,Treasury,Payroll,ABC Technologies,6182.01,INR,NEFT,CC400,Completed,INV-96725
+TXN0460,2025-02-21,General Ledger,Journal Entry,BluePeak Consulting,3575.3,INR,RTGS,CC100,Completed,INV-77054
+TXN0461,2025-03-02,Accounts Payable,Payroll,Metro Utilities,52576.07,INR,NEFT,CC500,Completed,INV-36433
+TXN0462,2025-07-03,Treasury,Journal Entry,Crescent Telecom,10198.28,INR,UPI,CC400,Completed,INV-53332
+TXN0463,2025-05-01,Accounts Payable,Invoice Payment,Crescent Telecom,5460.16,INR,UPI,CC100,Failed,INV-77070
+TXN0110,2025-06-24,Payroll,Expense Reimbursement,Evergreen Logistics,9290.25,INR,Credit Card,CC500,Completed,INV-96499
+TXN0465,2025-08-26,Accounts Payable,Invoice Payment,Evergreen Logistics,8995.87,INR,NEFT,CC300,Failed,INV-65836
+TXN0466,2025-03-01,Accounts Payable,Invoice Payment,BluePeak Consulting,8202.35,INR,NEFT,CC300,Pending,INV-67372
+TXN0467,2025-05-18,TREASURY,Journal Entry,BluePeak Consulting,16681.27,INR,Bank Transfer,CC400,Pending,INV-62461
+TXN0468,2025-08-22,Treasury,Payroll,BluePeak Consulting,225.66,USD,Bank Transfer,CC200,Pending,INV-17686
+TXN0469,2025-03-23,Treasury,Invoice Payment,Crescent Telecom,69.67,EUR,UPI,,Completed,INV-59774
+TXN0470,2025-07-03,Accounts Payable,Expense Reimbursement,Crescent Telecom,6066.61,INR,Bank Transfer,CC400,Completed,INV-67761
+TXN0471,2025-01-24,Payroll,Invoice Payment,,7833.82,INR,NEFT,CC500,Completed,INV-78564
+TXN0472,2025-02-18,Procurement,Bank Transfer,Apex Services,1398.8,INR,UPI,CC500,Completed,INV-90335
+TXN0473,2025-01-28,Procurement,Invoice Payment,Crescent Telecom,2730.08,INR,RTGS,CC200,Completed,INV-19812
+TXN0474,2025-09-09,Accounts Receivable,Payroll,ABC Technologies,31629.42,INR,Credit Card,CC200,Under Review,INV-82154
+TXN0475,2025-07-13,Accounts Receivable,Bank Transfer,Crescent Telecom,40063.56,INR,Bank Transfer,CC400,Completed,INV-68598
+TXN0476,2025-06-11,Treasury,Invoice Payment,Apex Services,8008.99,INR,Bank Transfer,CC500,Completed,INV-81971
+TXN0477,2025-01-01,General Ledger,Invoice Payment,Metro Utilities,178.52,EUR,RTGS,CC300,Completed,INV-57624
+TXN0478,2025-01-28,Treasury,Customer Receipt,Crescent Telecom,12894.58,INR,NEFT,CC400,Completed,INV-24945
+TXN0479,2025-02-19,Accounts Receivable,Journal Entry,Evergreen Logistics,135543.61,INR,Credit Card,CC500,Completed,INV-59006
+TXN0480,2025-02-24,Accounts Receivable,Invoice Payment,Apex Services,306.98,USD,Bank Transfer,CC300,Completed,INV-90065
+TXN0481,2025-04-11,Accounts Payable,Customer Receipt,Metro Utilities,106.32,USD,NEFT,CC100,Completed,INV-64325
+TXN0482,2025-01-24,Procurement,Journal Entry,Crescent Telecom,48.54,EUR,RTGS,CC500,Completed,INV-76086
+TXN0483,2025-03-10,Accounts Payable,Bank Transfer,Apex Services,27.92,EUR,Credit Card,CC400,Completed,INV-76628
+TXN0484,2025-04-01,General Ledger,Journal Entry,BluePeak Consulting,11765.7,INR,Bank Transfer,,Completed,INV-96182
+TXN0443,2025-06-25,Procurement,Journal Entry,Crescent Telecom,1707.31,INR,NEFT,CC500,Completed,INV-49347
+TXN0486,2025-05-31,Accounts Receivable,Bank Transfer,Evergreen Logistics,,INR,Credit Card,CC300,Completed,INV-82559
+TXN0487,2025-04-22,Accounts Receivable,Customer Receipt,Summit Office Products,63.12,EUR,UPI,CC200,Completed,INV-76046
+TXN0488,2025-10-05,Procurement,Journal Entry,Summit Office Products,3946.89,INR,Credit Card,CC400,Completed,INV-86389
+TXN0489,2025-08-02,Procurement,Journal Entry,Apex Services,458.85,EUR,Bank Transfer,CC500,Completed,INV-23955
+TXN0490,2025-01-13,Accounts Receivable,Bank Transfer,Metro Utilities,,INR,NEFT,CC200,Completed,INV-47567
+TXN0491,2025-05-09,Accounts Payable,Customer Receipt,,9830.29,INR,NEFT,CC400,Completed,INV-23432
+TXN0492,2025-10-15,Procurement,Customer Receipt,Evergreen Logistics,384.75,EUR,Bank Transfer,CC400,Completed,INV-60797
+TXN0493,2025-08-02,Payroll,Journal Entry,Evergreen Logistics,116.79,EUR,UPI,CC500,Completed,INV-68073
+TXN0494,2025-04-26,Procurement,Journal Entry,Metro Utilities,4759.55,INR,UPI,CC300,Pending,INV-68827
+TXN0351,2025-04-28,Accounts Payable,Bank Transfer,Summit Office Products,12890.83,INR,NEFT,CC200,Completed,INV-60164
+TXN0496,2025-05-23,Payroll,Expense Reimbursement,Evergreen Logistics,15647.61,INR,Bank Transfer,CC300,Completed,INV-71122
+TXN0497,2025-03-21,Accounts Receivable,Invoice Payment,Evergreen Logistics,4098.35,INR,RTGS,CC500,Completed,INV-82110
+TXN0218,2025-09-15,Accounts Receivable,Journal Entry,BluePeak Consulting,89.42,EUR,UPI,CC500,Under Review,INV-89316
+TXN0499,2025-03-23,General Ledger,Bank Transfer,Summit Office Products,51.95,EUR,UPI,CC200,Completed,INV-96944
+TXN0500,2025-06-19,Payroll,Payroll,Crescent Telecom,3055.26,INR,Credit Card,CC100,Completed,INV-25036
